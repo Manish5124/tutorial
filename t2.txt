@@ -1,1 +1,8 @@
+<!Doctype html>
+<html>
+<body>
+<p>
 this is t2 file exists in the tutorial folder
+</p>
+</body>
+</html>
